@@ -1,0 +1,6 @@
+D:\dropbox\IT\С#\Coding\DynamicArray\DynamicArray\DynamicArray\obj\Debug\MyDynamicArray.csprojResolveAssemblyReference.cache
+D:\dropbox\IT\С#\Coding\DynamicArray\DynamicArray\DynamicArray\obj\Debug\DynamicArray.exe
+D:\dropbox\IT\С#\Coding\DynamicArray\DynamicArray\DynamicArray\obj\Debug\DynamicArray.pdb
+D:\dropbox\IT\С#\Coding\DynamicArray\DynamicArray\DynamicArray\bin\Debug\DynamicArray.exe.config
+D:\dropbox\IT\С#\Coding\DynamicArray\DynamicArray\DynamicArray\bin\Debug\DynamicArray.exe
+D:\dropbox\IT\С#\Coding\DynamicArray\DynamicArray\DynamicArray\bin\Debug\DynamicArray.pdb
